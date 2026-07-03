@@ -2,13 +2,7 @@
 
 A sleek, static **shoe brand landing page** built with **React + Vite** as a beginner learning project. This project demonstrates core React fundamentals through a clean, component-based UI design.
 
-> 🔗 **Live Demo:** [View on Vercel](https://brand-page.vercel.app)  <!-- Update this URL after deployment -->
-
----
-
-## 📸 Preview
-
-![Brand Page Preview](public/images/shoe_image.png)
+> 🔗 **Live Demo:** [View on Vercel](https://brand-page-dun.vercel.app/)  <!-- Update this URL after deployment -->
 
 ---
 
@@ -83,7 +77,7 @@ This project was built to practice the following **React fundamentals**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Brand_Page.git
+git clone https://github.com/radhey803/Brand_Page.git
 
 # Navigate into the project
 cd Brand_Page
@@ -97,36 +91,11 @@ npm run dev
 
 The app will be running at `http://localhost:5173`
 
-### Available Scripts
-
-| Script | Command | Description |
-|---|---|---|
-| Dev | `npm run dev` | Start Vite dev server with HMR |
-| Build | `npm run build` | Create production build in `dist/` |
-| Preview | `npm run preview` | Preview production build locally |
-| Lint | `npm run lint` | Run OxLint for code quality checks |
-
 ---
-
-## 🌐 Deployment (Vercel)
-
-This project is deployed on **Vercel**. To deploy your own:
-
-1. Push your code to a **GitHub repository**
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-3. Click **"Add New Project"** → Import your repo
-4. Vercel auto-detects Vite — just click **Deploy**
-5. ✅ Your site is live!
 
 > **Framework Preset:** Vite  
 > **Build Command:** `npm run build`  
 > **Output Directory:** `dist`
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -138,6 +107,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">
-  Made with ❤️ while learning React
-</p>
